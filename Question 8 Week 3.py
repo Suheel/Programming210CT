@@ -15,3 +15,10 @@ elif word[] in "aeiouAEIOU" # this line of code will show will display words if 
 
 print ("The vowels have been removed from the word")
 print (vowel remove)
+
+# Pseudocode
+# WORD = STR INPUT
+#if no word:
+#       OUTPUT WORD
+# Else if word in "AEIOU"
+#     OUTPUT remove.vowels
